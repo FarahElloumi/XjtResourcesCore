@@ -1,0 +1,2 @@
+# XjtResourcesCore
+prototype
