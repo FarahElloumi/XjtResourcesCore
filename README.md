@@ -1,2 +1,2 @@
-# XjtResourcesCore
-prototype
+
+code prototype
